@@ -1,7 +1,7 @@
 <h1>localstorage.js</h1>
 <p>
-  <a href="https://www.npmjs.com/package/localstorage.js" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/localstorage.js.svg">
+  <a href="https://www.npmjs.com/package/@wylau/localstorage" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/@wylau/localstorage.svg">
   </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
